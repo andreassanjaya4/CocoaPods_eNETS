@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name         = "NETSClick_Debug"
+  s.name         = "NETSClick_DEBUG"
   s.version      = "1.9.10"
   s.summary      = "ENETSLib UAT library to integrate with ENETS UAT Testing Environment"
   s.description  = "ENETSLib used to connect to ENETS UAT Testing Environment"
