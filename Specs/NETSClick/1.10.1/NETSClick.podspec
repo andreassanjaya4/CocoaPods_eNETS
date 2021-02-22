@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
   s.name         = "NETSClick"
   s.version      = "1.10.1"
-  s.summary      = "ENETSLib UAT library to integrate with ENETS UAT Testing Environment"
-  s.description  = "ENETSLib used to connect to ENETS UAT Testing Environment"
+  s.summary      = "NETSClick Debug library can test on simulator for testing purpose only"
+  s.description  = "NETSClick Debug library can test on simulator for testing purpose only"
   s.homepage     = "https://api-developer.nets.com.sg/"
   s.license      = "MIT"
   #s.license      = { :type => "MIT", :file => "LICENSE" }
